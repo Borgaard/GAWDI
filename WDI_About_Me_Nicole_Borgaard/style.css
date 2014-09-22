@@ -1,0 +1,39 @@
+body {
+    background: #cc9;
+    background-image: url('zeGreen.png');
+    color: beige;
+}
+h1 {
+    font-size: 30;
+    color: #44444;
+}
+#wholePage {
+
+}
+#topRightImgRow img {
+    border: 4px solid black;
+    border-radius: 20px;
+}
+#lightforest {
+    width: 230px;
+}
+#theHat {
+    width: 230px;
+    border: 6px solid black;
+    border-radius: 150px;
+}
+#elPulpoMechanico {
+    width: 230px;
+}
+#tape {
+    width: 230px;
+}
+#roundOwl img {
+    width: 230px;
+    border: 4px solid black;
+    border-radius: 20px;
+}
+#bottomLeft img {
+    border: 4px solid black;
+    border-radius: 20px;
+}
