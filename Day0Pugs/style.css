@@ -13,8 +13,7 @@ h1 {
     font-family: 'Dosin', sans-serif;
 }
 img {
-    height: 100px;
+    height: 150px;
     border-radius: 20px;
-    border-left: solid 2px;
     border-bottom: solid 2px;
 }
