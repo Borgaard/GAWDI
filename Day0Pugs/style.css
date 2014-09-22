@@ -1,3 +1,6 @@
+h1 {
+    font-family: 'Krona One', sans-serif;
+}
 .center  {
     text-align: center;
     width: 400px;
@@ -11,4 +14,7 @@
 }
 img {
     height: 100px;
+    border-radius: 20px;
+    border-left: solid 2px;
+    border-bottom: solid 2px;
 }
